@@ -1,0 +1,82 @@
+.wpupdatr_welcome{
+	width: 60%;
+	display: block;
+	margin: 0 auto;
+	border: 1px solid #CCC;
+	box-shadow: 2px 2px 2px #CCC;
+	padding: 10px;
+	background-color: #FFF;
+}
+
+.wpupdatr_welcome .heading, 
+.wpupdatr_welcome .getting_started{
+	text-align: center;
+}
+
+.wpupdatr_welcome .logo{
+	display: block;
+	text-align: center;
+}
+.wpupdatr_welcome .features .feat1{
+	display: inline-block;
+	width: 30%;
+	vertical-align: top;
+	text-align: center;
+	border: 1px solid #CCC;
+	padding: 5px;
+	margin: 0 0 0 7px;
+}
+.wpupdatr_welcome .features .feat2{
+	display: inline-block;
+	width: 46%;
+	vertical-align: top;
+	text-align: center;
+	border: 1px solid #CCC;
+	padding: 5px;
+	margin: 0 0 0 7px;
+}
+.wpupdatr_welcome .features .feat1 img{
+	max-width: 100%;
+}
+.wpupdatr_welcome .cta {
+    text-align: center;
+    margin: 10px;
+    background-color: #1ab394;
+    padding: 25px;
+}
+.cta h2 {
+    margin-top: 0;
+}
+
+.wpupdatr_welcome .cta input[type="text"] {
+    width: 50%;
+    padding: 2px 10px;
+    border-radius: 0;
+    border: 0;
+}
+.wpupdatr_welcome .cta input[type="submit"] {
+    background-color: #FFF;
+    border: 0;
+    padding: 6px;
+    color: #1ab394;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+}
+.wpupdatr_welcome .cta h2, .wpupdatr_welcome .cta p {
+    color: #FFF;
+    font-weight: bold;
+}
+.wpupdatr_welcome .skiptosettings{
+	text-align: right;
+	padding: 10px 0 0 0;
+}
+.wpupdatr_welcome .intro{
+	padding: 10px;
+	text-align: center;
+}
+.wpupdatr_welcome .heading h2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
